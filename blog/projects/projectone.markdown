@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Project One"
-permalink: /projects/projectone
+date:   2020-01-25 18:43:58 -0600
 ---
 
 ## Project One
